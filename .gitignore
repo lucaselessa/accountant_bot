@@ -1,0 +1,4 @@
+# nunca comitar segredos
+.env
+__pycache__/
+*.pyc
